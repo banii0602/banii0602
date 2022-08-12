@@ -1,5 +1,7 @@
 ### Hallow Semuaa 👋
 
+![Foto Ziki](/WIN_20220719_10_44_07_Pro.jpg)
+
 <!--
 **banii0602/banii0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
